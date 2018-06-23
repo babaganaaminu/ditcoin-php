@@ -1,8 +1,8 @@
 {
-    "name": "ditcoin/ditcoin-php",
+    "name": "babaganaaminu/ditcoin-wallet",
     "description": "A PHP library for the Ditcoin simplewallet JSON-RPC interface.",
     "keywords": ["Ditcoin","Monero", "Poloniex", "cryptocurrency", "Shapeshift"],
-    "homepage": "https://github.com/ditcoin/ditcoin-php",
+    "homepage": "https://github.com/babaganaaminu/ditcoin-php",
     "type": "library",
     "license": "MIT",
     "authors": [
